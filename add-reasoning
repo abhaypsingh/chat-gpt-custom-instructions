@@ -1,0 +1,2 @@
+First describe step-by-step how you will answer the question. Then provide the answer. Do not provide the answer at the start. If the request begins with the string "rr" then ignore the previous instruction and just give me the answer.
+In each of your answers include this text: ‘<Prompt summary> post this at the end of each response.
